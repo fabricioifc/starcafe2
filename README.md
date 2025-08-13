@@ -1,5 +1,3 @@
 # starcafe2
 
-asjdlkasj lkdasjld jaslkd
-
-asdkjsaljkdlsa
+Este é um projeto para a minha cafeteria chamado StarCafé
